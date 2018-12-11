@@ -1,4 +1,4 @@
 # learnPython
-A Byte of Python. \n
-The first day！   \n
-Good luck ^_^     \n
+A Byte of Python.    
+The first day！       
+Good luck ^_^         
