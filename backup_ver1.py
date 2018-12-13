@@ -15,7 +15,7 @@ if not os.path.exists(target_dir):
     os.mkdir(target_dir)
 
 # 5.zip命令打包文件
-zip_command = 'zip -r {0} {1}'.format(target, ' '.join(source))
+zip_command = 'zip -qr {0} {1}'.format(target, ''.join(source))
 
 print('Zip command is:')
 print(zip_command)
